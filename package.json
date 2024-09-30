@@ -7,12 +7,12 @@
   "author": "Simon He",
   "license": "MIT",
   "funding": "https://github.com/sponsors/Simon-He95",
-  "homepage": "https://github.com/common-intellisense/arco-design2#readme",
+  "homepage": "https://github.com/common-intellisense/arco-design#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/common-intellisense/arco-design2.git"
+    "url": "git+https://github.com/common-intellisense/arco-design.git"
   },
-  "bugs": "https://github.com/common-intellisense/arco-design2/issues",
+  "bugs": "https://github.com/common-intellisense/arco-design/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
